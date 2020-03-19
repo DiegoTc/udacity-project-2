@@ -2,5 +2,17 @@
 	{
 		"ParameterKey": "EnvironmentName",
 		"ParameterValue": "UdacityProject"
+	},
+	{
+		"ParameterKey": "ImageIds",
+		"ParameterValue": "ami-0d1cd67c26f5fca19"
+	},
+	{
+		"ParameterKey": "KeyNames",
+		"ParameterValue": "test-acklen"
+	},
+	{
+		"ParameterKey": "InstanceTypeAS",
+		"ParameterValue": "t3a.small"
 	}
 ]
