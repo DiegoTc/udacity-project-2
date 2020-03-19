@@ -1,4 +1,4 @@
-###Steps for running  project.
+### Steps for running  project.
 Run network first.
 ```
 ./create.sh infra network.yml network-parameters.json
